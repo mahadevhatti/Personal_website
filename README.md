@@ -1,5 +1,4 @@
 # Personal Website
-### Meet new and interesting dogs nearby.
 
 This website is a beautiful Personal Webste made entirely from scratch.
 <hr />
